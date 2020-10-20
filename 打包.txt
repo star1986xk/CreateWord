@@ -1,0 +1,2 @@
+pyinstaller --paths C:\Users\Administrator\AppData\Local\Programs\Python\Python37\Lib\site-packages\PyQt5\Qt\bin -Fw -i ./title.ico CreateWord.py
+
